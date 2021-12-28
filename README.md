@@ -1,7 +1,5 @@
-![dc logo](./misc/dappcamus_logo.jpg)
-# Lottery-Smart-Contract
 
-[![Generic badge](https://img.shields.io/badge/build-passing-green.svg)](https://shields.io/)    [![Generic badge](https://img.shields.io/badge/licence-MIT-blue.svg)](https://shields.io/)
+# Lottery-Smart-Contract
 
 Lottery smart contract for tutorial.
 
